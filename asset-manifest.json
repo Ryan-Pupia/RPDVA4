@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RPDVA4/static/css/main.56a6a87c.css",
+    "main.js": "/RPDVA4/static/js/main.d30b961c.js",
+    "index.html": "/RPDVA4/index.html",
+    "main.56a6a87c.css.map": "/RPDVA4/static/css/main.56a6a87c.css.map",
+    "main.d30b961c.js.map": "/RPDVA4/static/js/main.d30b961c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56a6a87c.css",
+    "static/js/main.d30b961c.js"
+  ]
+}
